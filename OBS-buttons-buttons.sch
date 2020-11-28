@@ -508,9 +508,9 @@
 <wire x1="-6.5" y1="3.5" x2="-6.5" y2="-3.5" width="0.1524" layer="21"/>
 <wire x1="-6.5" y1="-3.5" x2="6.5" y2="-3.5" width="0.1524" layer="21"/>
 <wire x1="6.5" y1="3.5" x2="6.5" y2="-3.5" width="0.1524" layer="21"/>
-<pad name="1" x="-5.08" y="0" drill="1.397" shape="long" rot="R90"/>
-<pad name="2" x="0" y="0" drill="1.397" shape="long" rot="R90"/>
-<pad name="3" x="5.08" y="0" drill="1.397" shape="long" rot="R90"/>
+<pad name="1" x="-5.08" y="0" drill="2" shape="long" rot="R90"/>
+<pad name="2" x="0" y="0" drill="2" shape="long" rot="R90"/>
+<pad name="3" x="5.08" y="0" drill="2" shape="long" rot="R90"/>
 <text x="-6.731" y="3.81" size="1.778" layer="25" ratio="10">&gt;NAME</text>
 <text x="-6.35" y="-5.715" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 <text x="-3.937" y="-0.635" size="1.27" layer="21" ratio="10">1</text>
